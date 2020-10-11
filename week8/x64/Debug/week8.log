@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Kritsanaphat\source\week8\week8\Source.cpp(13,8): warning C4101: 'W': unreferenced local variable
+C:\Users\Kritsanaphat\source\week8\week8\Source.cpp(47,14): warning C4101: 'a3': unreferenced local variable
+C:\Users\Kritsanaphat\source\week8\week8\Source.cpp(47,10): warning C4101: 'a2': unreferenced local variable
+C:\Users\Kritsanaphat\source\week8\week8\Source.cpp(47,6): warning C4101: 'a1': unreferenced local variable
+  week8.vcxproj -> C:\Users\Kritsanaphat\source\week8\x64\Debug\week8.exe
